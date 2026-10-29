@@ -109,3 +109,8 @@ C:\ProgramData\OpenVPNPrefixAclLocalSystemPoC\result.json
 `Observe` stops and disables both OpenVPN services and restores the vendor
 service image. It does not uninstall OpenVPN or remove the PoC directories;
 discard the disposable VM after collecting the result.
+
+> [!CAUTION]
+> **LEGAL AND TECHNICAL DISCLAIMER**
+>
+> This code is for controlled research and analysis. The author assumes no liability for damages, system instability, or legal consequences arising from use or misuse of this software.
