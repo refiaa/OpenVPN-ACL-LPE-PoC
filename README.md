@@ -1,6 +1,6 @@
 # OpenVPN Windows MSI textual-prefix ACL PoC
 
-<img width="1466" height="1024" alt="image" src="https://github.com/user-attachments/assets/05cd6987-4654-413e-8f46-a16866297695" />
+<img width="1466" height="1022" alt="image" src="https://github.com/user-attachments/assets/85b71501-6ef3-4899-82f7-d845552964e4" />
 
 
 This proof of concept demonstrates a Windows installation-path ACL issue in the
