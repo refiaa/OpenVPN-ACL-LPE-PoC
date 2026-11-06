@@ -2,6 +2,7 @@
 
 <img width="1466" height="1022" alt="image" src="https://github.com/user-attachments/assets/85b71501-6ef3-4899-82f7-d845552964e4" />
 
+> fixed in [2.7.9](https://github.com/OpenVPN/openvpn-build/pull/1520)
 
 This proof of concept demonstrates a Windows installation-path ACL issue in the
 official OpenVPN `2.7.8-I002` amd64 MSI.
